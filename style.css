@@ -7,3 +7,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10px;
+    min-height: 100vh;
+    background: #06283D;
+}
