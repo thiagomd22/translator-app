@@ -13,14 +13,14 @@ body {
     justify-content: center;
     padding: 0 10px;
     min-height: 100vh;
-    background: #06283D;
+    background: #23022E;
 }
 
 .container {
     max-width: 690px;
     width: 100%;
     padding: 30px;
-    background: #fff;
+    background: #EFF8E2;
     border-radius: 7px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.01);
 }
@@ -108,7 +108,7 @@ li,
   
 .text-input textarea::-webkit-scrollbar-track,
 .controls .row select::-webkit-scrollbar-track {
-    background: #fff;
+    background: #EFF8E2;
 }
   
 .text-input textarea::-webkit-scrollbar-thumb {
@@ -138,12 +138,12 @@ li,
     padding: 14px;
     outline: none;
     border: none;
-    color: #fff;
+    color: #EFF8E2;
     cursor: pointer;
     margin-top: 20px;
     font-size: 17px;
     border-radius: 5px;
-    background-color: #06283D;
+    background-color: #573280;
 }
 
 @media (max-width: 660px) {
