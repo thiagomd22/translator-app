@@ -23,7 +23,9 @@ exchangeIcon.addEventListener("click", () => {
 });
 
 fromText.addEventListener("keyup", () => {
-
+    if (!fromText.value) {
+        toText.value = "";
+    }
 });
 
 translateBtn.addEventListener("click", () => {
